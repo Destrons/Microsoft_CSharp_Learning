@@ -1,0 +1,15 @@
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\bin\Debug\net9.0\Aula01-HelloWorld.exe
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\bin\Debug\net9.0\Aula01-HelloWorld.deps.json
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\bin\Debug\net9.0\Aula01-HelloWorld.runtimeconfig.json
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\bin\Debug\net9.0\Aula01-HelloWorld.dll
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\bin\Debug\net9.0\Aula01-HelloWorld.pdb
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\obj\Debug\net9.0\Aula01-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\obj\Debug\net9.0\Aula01-HelloWorld.AssemblyInfoInputs.cache
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\obj\Debug\net9.0\Aula01-HelloWorld.AssemblyInfo.cs
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\obj\Debug\net9.0\Aula01-HelloWorld.csproj.CoreCompileInputs.cache
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\obj\Debug\net9.0\Aula01-HelloWorld.sourcelink.json
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\obj\Debug\net9.0\Aula01-HelloWorld.dll
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\obj\Debug\net9.0\refint\Aula01-HelloWorld.dll
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\obj\Debug\net9.0\Aula01-HelloWorld.pdb
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\obj\Debug\net9.0\Aula01-HelloWorld.genruntimeconfig.cache
+F:\GitHub\Microsoft_CSharp_Learning\Aula01-HelloWorld\obj\Debug\net9.0\ref\Aula01-HelloWorld.dll
