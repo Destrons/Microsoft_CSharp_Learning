@@ -1,0 +1,15 @@
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\obj\Debug\net9.0\Aula02-strings.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\obj\Debug\net9.0\Aula02-strings.AssemblyInfoInputs.cache
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\obj\Debug\net9.0\Aula02-strings.AssemblyInfo.cs
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\obj\Debug\net9.0\Aula02-strings.csproj.CoreCompileInputs.cache
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\obj\Debug\net9.0\Aula02-strings.sourcelink.json
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\bin\Debug\net9.0\Aula02-strings.exe
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\bin\Debug\net9.0\Aula02-strings.deps.json
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\bin\Debug\net9.0\Aula02-strings.runtimeconfig.json
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\bin\Debug\net9.0\Aula02-strings.dll
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\bin\Debug\net9.0\Aula02-strings.pdb
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\obj\Debug\net9.0\Aula02-strings.dll
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\obj\Debug\net9.0\refint\Aula02-strings.dll
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\obj\Debug\net9.0\Aula02-strings.pdb
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\obj\Debug\net9.0\Aula02-strings.genruntimeconfig.cache
+F:\GitHub\Microsoft_CSharp_Learning\Aula02-strings\obj\Debug\net9.0\ref\Aula02-strings.dll

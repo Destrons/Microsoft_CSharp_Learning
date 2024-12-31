@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\GitHub\\Microsoft_CSharp_Learning\\Aula01-HelloWorld\\Aula01-HelloWorld.csproj": {}
+    "F:\\GitHub\\Microsoft_CSharp_Learning\\Aula02-strings\\Aula02-strings.csproj": {}
   },
   "projects": {
-    "f:\\GitHub\\Microsoft_CSharp_Learning\\Aula01-HelloWorld\\Aula01-HelloWorld.csproj": {
+    "F:\\GitHub\\Microsoft_CSharp_Learning\\Aula02-strings\\Aula02-strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\GitHub\\Microsoft_CSharp_Learning\\Aula01-HelloWorld\\Aula01-HelloWorld.csproj",
-        "projectName": "Aula01-HelloWorld",
-        "projectPath": "f:\\GitHub\\Microsoft_CSharp_Learning\\Aula01-HelloWorld\\Aula01-HelloWorld.csproj",
+        "projectUniqueName": "F:\\GitHub\\Microsoft_CSharp_Learning\\Aula02-strings\\Aula02-strings.csproj",
+        "projectName": "Aula02-strings",
+        "projectPath": "F:\\GitHub\\Microsoft_CSharp_Learning\\Aula02-strings\\Aula02-strings.csproj",
         "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
-        "outputPath": "f:\\GitHub\\Microsoft_CSharp_Learning\\Aula01-HelloWorld\\obj\\",
+        "outputPath": "F:\\GitHub\\Microsoft_CSharp_Learning\\Aula02-strings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
