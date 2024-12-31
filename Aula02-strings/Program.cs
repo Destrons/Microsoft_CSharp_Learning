@@ -22,3 +22,4 @@ Console.WriteLine(friends.ToUpper());
 //Length conta a quantidade de caracteres contido na string, conta espaços também.
 Console.WriteLine(friends.Length);
 
+
